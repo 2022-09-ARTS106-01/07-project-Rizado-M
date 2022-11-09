@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MidtermProject.unity
-    guid: 9f90d67aca8f143c7b569495745f305b
+    path: Assets/Scenes/Midterm Blockout.unity
+    guid: fbeb6f8445f18984380f45fcf0fa2521
   m_configObjects: {}
